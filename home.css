@@ -1,0 +1,33 @@
+html {
+background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    padding: 60px;
+}
+
+body{
+  padding: 0;
+  height: 100vh;
+  background: black
+}
+
+.headerElements:before {
+    content: "";
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.container {
+    text-align: center;
+
+}
+
+button {
+    background-color: black;
+    color: white;
+    font-size: medium;
+}

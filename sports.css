@@ -1,0 +1,38 @@
+html {
+background-color: black;
+}
+
+.title {
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+body{
+  padding: 0;
+  height: 100vh;
+  background: black
+}
+
+.headerElements:before {
+    content: "";
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.container {
+    text-align: center;
+
+}
+
+button {
+    background-color: black;
+    color: white;
+    font-size: medium;
+}
+
+.video {
+    margin-top: 28px;
+}
